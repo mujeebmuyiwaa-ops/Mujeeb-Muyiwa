@@ -16,7 +16,7 @@ export const AboutFounder: React.FC<AboutFounderProps> = ({ onOpenAudit }) => {
             <div className="relative w-full max-w-md">
               <div className="relative rounded-3xl overflow-hidden bg-white border border-slate-200/90 shadow-xl">
                 <img
-                  src="/src/assets/images/ceo_mujeeb.png"
+                  src="/src/assets/images/ceo_mujeeb_new.jpg"
                   alt="Mujeeb - Founder & CEO of Mujeeb Sales Rescue"
                   referrerPolicy="no-referrer"
                   className="w-full h-auto object-cover object-top hover:scale-102 transition-transform duration-500"

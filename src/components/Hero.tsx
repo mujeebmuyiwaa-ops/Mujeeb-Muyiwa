@@ -90,7 +90,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenAudit, onExploreServices }) =>
                 
                 {/* Founder Photo */}
                 <img
-                  src="/src/assets/images/ceo_mujeeb.png"
+                  src="/src/assets/images/ceo_mujeeb_new.jpg"
                   alt="Mujeeb - Founder & CEO of Mujeeb Sales Rescue"
                   referrerPolicy="no-referrer"
                   className="w-full h-auto object-cover object-top hover:scale-102 transition-transform duration-500"
